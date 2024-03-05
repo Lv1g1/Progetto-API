@@ -7,7 +7,7 @@ Questo progetto è stato realizzato come Prova Finale per il corso di Algoritmi 
 Il progetto è stato sviluppato utilizzando il linguaggio C, rispettando lo standard C11 con l'ammissione di Variable Length Arrays (VLA). La libreria utilizzata è la Standard C (libc). Non è stato utilizzato il multithreading. I dati in ingresso vengono forniti tramite stdin, mentre i risultati vengono restituiti tramite stdout.
 
 ### Struttura del Progetto
-Il progetto, denominato CercaPercorso, si focalizza sull'implementazione di un'autostrada rappresentata come una lista di stazioni di servizio. Ogni stazione è identificata dalla sua distanza dall'inizio dell'autostrada e contiene un insieme di veicoli elettrici, ognuno caratterizzato da un'autonomia specifica.
+Il progetto si focalizza sull'implementazione di un'autostrada rappresentata come una lista di stazioni di servizio. Ogni stazione è identificata dalla sua distanza dall'inizio dell'autostrada e contiene un insieme di veicoli elettrici, ognuno caratterizzato da un'autonomia specifica.
 
 ### Obiettivo
 L'obiettivo principale del progetto è trovare il percorso con il minor numero di tappe tra due stazioni, utilizzando un veicolo diverso in ogni tappa, selezionato tra quelli disponibili nella stazione di servizio. È importante sottolineare che il percorso è solo pianificato e non comporta lo spostamento effettivo di autovetture durante la richiesta del percorso.
