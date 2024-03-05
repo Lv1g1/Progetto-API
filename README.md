@@ -1,4 +1,4 @@
-# Progetto CercaPercorso
+# Progetto API
 
 ### Descrizione
 Questo progetto è stato realizzato come Prova Finale per il corso di Algoritmi e Principi dell'Informatica nel periodo accademico 2022-2023. Il progetto è stato valutato con il massimo punteggio di 30/30 con Lode.
